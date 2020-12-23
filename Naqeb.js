@@ -20,8 +20,8 @@ const dateFormat = require("dateformat");
 var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
-const prefix = "%";
-client.login("");
+const prefix = "r+";
+client.login("NzgxNzQ2ODg4MDQxODI0Mjg3.X8CIhg.j4ezbhXq-ChMyR2xRySyn_1VSR0");
 client.on("ready", async () => {
   console.log(`Logged in as ${client.user.username}!`);
   client.user.setStatus("idle");
