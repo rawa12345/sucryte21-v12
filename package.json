@@ -1,7 +1,7 @@
 {
-  "name": "Robot",
+  "name": "MrRAWA",
   "version": "2.1.0",
-  "description": "Robot",
+  "description": "Rawa ",
   "main": "Naqeb.js",
   "scripts": {
     "start": "node Naqeb.js"
